@@ -3,3 +3,4 @@
 
 ### 目录
 1. [经典排序算法](https://github.com/usthooz/algorithm/tree/master/sort)
+2. [元素查找算法](https://github.com/usthooz/algorithm/tree/master/search)
