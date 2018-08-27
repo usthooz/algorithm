@@ -8,3 +8,12 @@
 4. 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较。
 
 #### 动图演示
+![bubble](https://github.com/usthooz/algorithm/blob/master/sort/img/bubbole.gif)
+
+#### 实现示例
+1. [C语言实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.c)  
+2. [C++实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.cpp)  
+3. [Golang实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.go)  
+4. [Java实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.java)  
+5. [Lua实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.lua)  
+6. [Python实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.py)  
