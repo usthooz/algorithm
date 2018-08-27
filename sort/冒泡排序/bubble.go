@@ -19,6 +19,7 @@ func BubbleSort(values []int) []int {
 	flag := true
 	vLen := len(values)
 	for i := 0; i < vLen-1; i++ {
+		// 使用flag标记，减少循环次数(当第一次已经是正序就不再进行循环了)
 		flag = true
 		for j := 0; j < vLen-i-1; j++ {
 			if values[j] > values[j+1] {
