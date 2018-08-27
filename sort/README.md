@@ -20,7 +20,7 @@
     - 线性时间非比较类排序
     不通过比较来决定元素间的相对次序，它可以突破基于比较排序的时间下界，以线性时间运行，因此称为线性时间非比较类排序。 
 现行排序分类：
-![分类](https://github.com/usthooz/algorithm/img/sort.png)
+![分类](https://github.com/usthooz/algorithm/blob/master/img/sort.png)
 
 ### 目录
 1. [冒泡排序](https://github.com/usthooz/algorithm/tree/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)  
@@ -35,4 +35,4 @@
 10. [基数排序]()
 
 ### 算法复杂度比较
-![复杂度](https://github.com/usthooz/algorithm/img/on.png)
+![复杂度](https://github.com/usthooz/algorithm/blob/master/img/on.png)
