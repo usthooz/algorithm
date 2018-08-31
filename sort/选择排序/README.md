@@ -11,10 +11,9 @@
 ![selection](https://github.com/usthooz/algorithm/blob/master/sort/img/selection.gif)
 
 #### 实现示例
-#### 实现示例
-1. [C语言实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.c)  
-2. [C++实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.cpp)  
-3. [Golang实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.go)  
-4. [Java实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.java)  
-5. [Lua实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.lua)  
-6. [Python实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.py)  
+1. [C语言实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/section.c)  
+2. [C++实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/section.cpp)  
+3. [Golang实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/section.go)  
+4. [Java实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/section.java)  
+5. [Lua实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/section.lua)  
+6. [Python实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/section.py)  
