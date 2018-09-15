@@ -2,6 +2,7 @@
 using namespace std;
 
 /*
+	Insertion: 插入排序
 	input:
 	4 1 5 2 4
 	output:
