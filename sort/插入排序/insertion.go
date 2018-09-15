@@ -10,11 +10,10 @@ func main() {
 }
 
 /*
-	InsertionSort 插入排序
+	InsertionSort:插入排序
 	input: [95 45 15 78 84 51 24 12]
 	output: [12 15 24 45 51 78 84 95]
 */
-
 func InsertionSort(arr []int) []int {
 	for i := 1; i < len(arr); i++ {
 		// 小于前一个
