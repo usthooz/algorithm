@@ -9,6 +9,7 @@
 */
 void insertion(int a[], int n);
  
+// 插入排序
 void insertion(int a[], int n)
 {
     int i;
