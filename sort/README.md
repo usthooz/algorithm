@@ -26,7 +26,7 @@
 1. [冒泡排序](https://github.com/usthooz/algorithm/tree/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)  
 2. [快速排序]()
 3. [选择排序](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F)  
-4. [插入排序]()
+4. [插入排序](https://github.com/usthooz/algorithm/tree/master/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F)
 5. [希尔排序]()
 6. [归并排序]()
 7. [堆排序]()
