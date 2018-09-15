@@ -12,9 +12,9 @@
 ![insertion](https://github.com/usthooz/algorithm/blob/master/sort/img/insertion.gif)
 
 #### 实现示例
-1. [C语言实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/insertion.c)  
-2. [C++实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/insertion.cpp)  
-3. [Golang实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/insertion.go)  
-4. [Java实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/insertion.java)  
-5. [Lua实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/insertion.lua)  
-6. [Python实现](https://github.com/usthooz/algorithm/tree/master/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/insertion.py)  
+1. [C语言实现](https://github.com/usthooz/algorithm/blob/master/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/insertion.c)  
+2. [C++实现](https://github.com/usthooz/algorithm/tree/master/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/insertion.cpp)  
+3. [Golang实现](https://github.com/usthooz/algorithm/tree/master/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/insertion.go)  
+4. [Java实现](https://github.com/usthooz/algorithm/tree/master/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/insertion.java)  
+5. [Lua实现](https://github.com/usthooz/algorithm/tree/master/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/insertion.lua)  
+6. [Python实现](https://github.com/usthooz/algorithm/tree/master/sort/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/insertion.py)  
