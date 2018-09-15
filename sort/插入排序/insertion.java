@@ -22,7 +22,7 @@ public class insertion {
         for(int b:insertionSort(array))
             System.out.println(b);
     }
-    // 插入排序
+    // insertionSort 插入排序
     public static int[] insertionSort(int []arr){
         for(int i =1;i<arr.length;i++) { 
             // 小于前一个元素
