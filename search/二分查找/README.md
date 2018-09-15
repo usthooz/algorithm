@@ -7,7 +7,7 @@
 2. 对比元素与中间数，如果中间数小于元素，那么将中间数之后的数字分为两块，继续对比查找.
 
 ### 图解
-![binar_search](https://github.com/usthooz/algorithm/tree/master/img/binarysearch.png)
+![binar_search](https://github.com/usthooz/algorithm/blob/master/img/binarysearch.png)
 
 ### 
 1. [C语言实现](https://github.com/usthooz/algorithm/blob/master/search/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/binary_search.c)
