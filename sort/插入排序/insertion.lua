@@ -11,6 +11,7 @@
     -- 4
     -- 5
 
+-- insertion 插入排序
 function insertion(array)
     local tpl = 0
     -- 注意:lua数组下标从1开始，所以a2下标应该为2
