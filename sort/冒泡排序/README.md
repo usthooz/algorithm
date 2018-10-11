@@ -18,3 +18,4 @@
 4. [Java实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.java)  
 5. [Lua实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.lua)  
 6. [Python实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.py)  
+7. [Js实现](https://github.com/usthooz/algorithm/blob/master/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubble.js)
